@@ -31,6 +31,7 @@
 ---
 * [ndss22]KASPER: Scanning for Generalized Transient Execution Gadgets in the Linux Kernel.
 * [ndss22]Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel.
+* [ndss22]Preventing kernel hacks with HAKC
 * [ndss20]HFL: Hybrid Fuzzing on the Linux Kernel.
 * [ndss17]Unleashing Use-Before-Initialization Vulnerabilities in the Linux Kernel Using Targeted Stack Spraying.
 
