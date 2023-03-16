@@ -6,6 +6,9 @@
 * [sp22]GREBE: Unveiling exploitation potential for Linux kernel bugs.
 * [sp19]Lbm: A security framework for peripherals within the linux kernel.
 * [sp14]KCoFI: Complete Control-Flow Integrity for Commodity Operating System Kernels.
+* [sp12]Space Traveling across VM: Automatically Bridging the Semantic Gap in Virtual Machine Introspection via Online Kernel Data Redirection.
+* [sp12]Smashing the Gadgets: Hindering Return-Oriented Programming Using In-Place Code Randomization.
+* [sp12]Missing the Point(er): On the Effectiveness of Code Pointer Integrity.
 
 ### usenix sec
 ---
@@ -17,9 +20,12 @@
 * [sec22]Playing for K(H)eaps-Understanding and Improving Linux Kernel Exploit Reliability.
 * [sec22]In-Kernel Control-Flow Integrity on Commodity OSes using ARM Pointer Authentication.
 * [sec21]SyzScope: Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs in Linux kernel.
+* [sec20]KOOBE: Towards facilitating exploit generation of kernel outof-bounds write vulnerabilities.
 * [sec19]PeX: A Permission Check Analysis Framework for Linux Kernel.
 * [sec19]KEPLER: Facilitating control-flow hijacking primitive evaluation for Linux kernel vulnerabilities.
 * [sec19]Slake: Facilitating slab manipulation for exploiting vulnerabilities in the linux kernel.
+* [sec18]HeapHopper: Bringing bounded model checking to heap implementation security.
+* [sec18]Meltdown: Reading kernel memory from user space.
 * [sec17]DR.CHECKER: A soundy analysis for linux kernel drivers.
 * [sec17]How Double-Fetch Situations turn into Double-Fetch Vulnerabilities: A Study of Double Fetches in the Linux Kernel.
 
@@ -27,6 +33,7 @@
 ---
 * [ccs22]DirtyCred: Escalating Privilege in Linux Kernel.
 * [ccs20]Slake: Facilitating slab manipulation for exploiting vulnerabilities in the linux kernel.
+* [ccs20]A systematic study of elastic objects in kernel exploitation
 * [ccs16]Breaking Kernel Address Space Layout Randomization with Intel TSX.
 
 ### ndss
