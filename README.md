@@ -5,6 +5,7 @@
 * [sp23]When Top-down Meets Bottom-up_Detecting and Exploiting Use-After-Cleanup Bugs in Linux Kernel.
 * [sp22]GREBE: Unveiling exploitation potential for Linux kernel bugs.
 * [sp19]Lbm: A security framework for peripherals within the linux kernel.
+* [sp14]KCoFI: Complete Control-Flow Integrity for Commodity Operating System Kernels.
 
 ### usenix sec
 ---
@@ -26,6 +27,7 @@
 ---
 * [ccs22]DirtyCred: Escalating Privilege in Linux Kernel.
 * [ccs20]Slake: Facilitating slab manipulation for exploiting vulnerabilities in the linux kernel.
+* [ccs16]Breaking Kernel Address Space Layout Randomization with Intel TSX.
 
 ### ndss
 ---
