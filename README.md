@@ -67,6 +67,7 @@
 ### ICSE
 * [icse20]Scaling open source communities: An empirical study of the Linux kernel.
 * [icse20]Configfix: interactive configuration conflict resolution for the linux kernel.
+* [icse20]Demystifying the Dependency Challenge in Kernel Fuzzing
 
 ### ASE
 * [ase19]PTracer: A Linux kernel patch trace bot.
@@ -74,6 +75,9 @@
 ### FSE/ESEC
 * [fse/esec20]UBITect: a precise and scalable method to detect use-before-initialization bugs in Linux kernel.
 * [fse/esec22]Industry practice of coverage-guided enterprise Linux kernel fuzzing.
+
+### ISSTA
+* [ISSTA]PrIntFuzz: Fuzzing Linux Drivers via Automated Virtual Device Simulation.
 
 ### TIFS
 * [tifs22]From Release to Rebirth: Exploiting Thanos Objects in Linux Kernel.
