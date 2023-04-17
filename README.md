@@ -46,46 +46,58 @@
 
 ### pldi
 ---
-* [pldi]Simple and precise static analysis of untrusted linux kernel extensions.
+* [pldi] Simple and precise static analysis of untrusted linux kernel extensions.
 
 ### osdi
 ---
-* [osdi]Specification and verification in the field: Applying formal methods to {BPF} just-in-time compilers in the Linux kernel.
+* [osdi] Specification and verification in the field: Applying formal methods to {BPF} just-in-time compilers in the Linux kernel.
 
 ### SOSP2021
-* [sosp2021]Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis.
+---
+* [sosp2021] Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis.
 
 ### usenix-atc
-* [atc20]SPINFER: Inferring Semantic Patches for the Linux Kernel.
+---
+* [atc20] SPINFER: Inferring Semantic Patches for the Linux Kernel.
 
 ### eurosys
+---
 * [eurosys19]LockDoc: Trace-based analysis of locking in the Linux kernel.
 
 ### ASPLOS
-* [asplos19]DCNS: automated detection of conservative non-sleep defects in the linux kernel
+---
+* [asplos23]KIT: Testing OS-Level Virtualization for Functional Interference Bugs.
+* [asplos19]DCNS: automated detection of conservative non-sleep defects in the linux kernel.
 
 ### ICSE
+---
 * [icse20]Scaling open source communities: An empirical study of the Linux kernel.
 * [icse20]Configfix: interactive configuration conflict resolution for the linux kernel.
 * [icse20]Demystifying the Dependency Challenge in Kernel Fuzzing
 
 ### ASE
+---
 * [ase19]PTracer: A Linux kernel patch trace bot.
 
 ### FSE/ESEC
+---
 * [fse/esec20]UBITect: a precise and scalable method to detect use-before-initialization bugs in Linux kernel.
 * [fse/esec22]Industry practice of coverage-guided enterprise Linux kernel fuzzing.
 
 ### ISSTA
+---
 * [ISSTA]PrIntFuzz: Fuzzing Linux Drivers via Automated Virtual Device Simulation.
 
 ### TIFS
+---
 * [tifs22]From Release to Rebirth: Exploiting Thanos Objects in Linux Kernel.
 
 ### TOCS
+---
 * [tocs]Effective detection of sleep-in-atomic-context bugs in the Linux kernel.
 
 ### FM
+---
 * [FM19]Runtime Verification of Linux Kernel Security Module
 
 
