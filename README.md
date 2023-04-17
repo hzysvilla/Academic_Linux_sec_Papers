@@ -52,14 +52,14 @@
 ---
 * [osdi]Specification and verification in the field: Applying formal methods to {BPF} just-in-time compilers in the Linux kernel.
 
+### SOSP2021
+* [sosp2021]Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis.
+
 ### usenix-atc
 * [atc20]SPINFER: Inferring Semantic Patches for the Linux Kernel.
 
 ### eurosys
 * [eurosys19]LockDoc: Trace-based analysis of locking in the Linux kernel.
-
-### odsi
-* [osdi]Specification and verification in the field: Applying formal methods to BPF just-in-time compilers in the Linux kernel
 
 ### ASPLOS
 * [asplos19]DCNS: automated detection of conservative non-sleep defects in the linux kernel
