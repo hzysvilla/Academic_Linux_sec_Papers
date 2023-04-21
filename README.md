@@ -59,6 +59,7 @@
 ### usenix-atc
 ---
 * [atc20] SPINFER: Inferring Semantic Patches for the Linux Kernel.
+* [atc19] LXDs: Towards Isolation of Kernel Subsystems.
 
 ### eurosys
 ---
