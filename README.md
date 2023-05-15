@@ -28,6 +28,7 @@
 * [sec18]Meltdown: Reading kernel memory from user space.
 * [sec17]DR.CHECKER: A soundy analysis for linux kernel drivers.
 * [sec17]How Double-Fetch Situations turn into Double-Fetch Vulnerabilities: A Study of Double Fetches in the Linux Kernel.
+* [sec17]SLEUTH: Real-time Attack Scenario Reconstruction from COTS Audit Data.
 
 ### ccs
 ---
@@ -96,6 +97,10 @@
 ### TOCS
 ---
 * [tocs]Effective detection of sleep-in-atomic-context bugs in the Linux kernel.
+
+### TOCS
+---
+* [TDSC]APTSHIELD: A Stable, Efficient and Real-time APT Detection System for Linux Hosts.
 
 ### FM
 ---
