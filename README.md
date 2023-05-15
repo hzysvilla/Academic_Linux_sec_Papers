@@ -6,6 +6,7 @@
 * [sp22]GREBE: Unveiling exploitation potential for Linux kernel bugs.
 * [sp19]Lbm: A security framework for peripherals within the linux kernel.
 * [sp14]KCoFI: Complete Control-Flow Integrity for Commodity Operating System Kernels.
+* [sp19]Razzer: Finding Kernel Race Bugs through Fuzzing.
 * [sp12]Space Traveling across VM: Automatically Bridging the Semantic Gap in Virtual Machine Introspection via Online Kernel Data Redirection.
 * [sp12]Smashing the Gadgets: Hindering Return-Oriented Programming Using In-Place Code Randomization.
 * [sp12]Missing the Point(er): On the Effectiveness of Code Pointer Integrity.
@@ -24,8 +25,11 @@
 * [sec19]PeX: A Permission Check Analysis Framework for Linux Kernel.
 * [sec19]KEPLER: Facilitating control-flow hijacking primitive evaluation for Linux kernel vulnerabilities.
 * [sec19]Slake: Facilitating slab manipulation for exploiting vulnerabilities in the linux kernel.
+* [sec19]kAFL: Hardware-Assisted Feedback Fuzzing for OS Kernels.
+* [sec19]Unicorefuzz: On the Viability of Emulation for Kernelspace Fuzzing
 * [sec18]HeapHopper: Bringing bounded model checking to heap implementation security.
 * [sec18]Meltdown: Reading kernel memory from user space.
+* [sec18]MoonShine: Optimizing OS Fuzzer Seed Selection with Trace Distillation.
 * [sec17]DR.CHECKER: A soundy analysis for linux kernel drivers.
 * [sec17]How Double-Fetch Situations turn into Double-Fetch Vulnerabilities: A Study of Double Fetches in the Linux Kernel.
 * [sec17]SLEUTH: Real-time Attack Scenario Reconstruction from COTS Audit Data.
@@ -34,7 +38,9 @@
 ---
 * [ccs22]DirtyCred: Escalating Privilege in Linux Kernel.
 * [ccs20]Slake: Facilitating slab manipulation for exploiting vulnerabilities in the linux kernel.
-* [ccs20]A systematic study of elastic objects in kernel exploitation
+* [ccs20]A systematic study of elastic objects in kernel exploitation.
+* [ccs17]IMF: Inferred Model-based Fuzzer.
+* [ccs17]DIFUZE: Interface Aware Fuzzing for Kernel Drivers.
 * [ccs16]Breaking Kernel Address Space Layout Randomization with Intel TSX.
 
 ### ndss
@@ -43,6 +49,7 @@
 * [ndss22]Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel.
 * [ndss22]Preventing kernel hacks with HAKC
 * [ndss20]HFL: Hybrid Fuzzing on the Linux Kernel.
+* [ndss20]PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary.
 * [ndss17]Unleashing Use-Before-Initialization Vulnerabilities in the Linux Kernel Using Targeted Stack Spraying.
 
 ### pldi
