@@ -5,9 +5,11 @@
 * [sp23]μSWITCH: Fast Kernel Context Isolation with Implicit Context Switches
 * [sp23]When Top-down Meets Bottom-up_Detecting and Exploiting Use-After-Cleanup Bugs in Linux Kernel.
 * [sp22]GREBE: Unveiling exploitation potential for Linux kernel bugs.
+* [sp22]Goshawk: Hunting Memory Corruptions via Structure-Aware and Object-Centric Memory Operation Synopsis
+* [sp20]xMP: Selective Memory Protection for Kernel and User Space.
 * [sp19]Lbm: A security framework for peripherals within the linux kernel.
-* [sp14]KCoFI: Complete Control-Flow Integrity for Commodity Operating System Kernels.
 * [sp19]Razzer: Finding Kernel Race Bugs through Fuzzing.
+* [sp14]KCoFI: Complete Control-Flow Integrity for Commodity Operating System Kernels.
 * [sp12]Space Traveling across VM: Automatically Bridging the Semantic Gap in Virtual Machine Introspection via Online Kernel Data Redirection.
 * [sp12]Smashing the Gadgets: Hindering Return-Oriented Programming Using In-Place Code Randomization.
 * [sp12]Missing the Point(er): On the Effectiveness of Code Pointer Integrity.
