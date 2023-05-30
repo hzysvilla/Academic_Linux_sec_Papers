@@ -1,5 +1,4 @@
-# Academic_Linux_sec_Papers
-
+A curated Linux kernal related academic papers. All papers are sorted based on the conference name and published year. Welcome developers or researchers to add more published paper to this list.
 ---
 ### sp
 * [sp23]μSWITCH: Fast Kernel Context Isolation with Implicit Context Switches
@@ -16,6 +15,9 @@
 
 ### usenix sec
 ---
+* [sec23]FirmSolo: Enabling dynamic analysis of binary Linux-based IoT kernel modules.
+* [sec23]Device Tracking via Linux’s New TCP Source Port Selection Algorithm.
+* [sec23]Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique.
 * [sec22]Midas: Systematic Kernel TOCTTOU Protection.
 * [sec22]Playing for K(H)eaps: Understanding and Improving Linux Kernel Exploit Reliability.
 * [sec22]OS-Aware Vulnerability Prioritization via Differential Severity Analysis.
