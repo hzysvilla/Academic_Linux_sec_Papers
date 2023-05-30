@@ -1,6 +1,6 @@
 # Academic Linux Kernal Papers
 
-A curated linux kernal related academic papers. All papers are sorted based on the conference name and published year. Welcome developers or researchers to add more published paper to this list.
+* A curated linux kernal related academic papers. All papers are sorted based on the conference name and published year. Welcome developers or researchers to add more published paper to this list.
 ---
 ### sp
 * [sp23]μSWITCH: Fast Kernel Context Isolation with Implicit Context Switches
