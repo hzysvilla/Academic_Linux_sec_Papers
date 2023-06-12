@@ -3,7 +3,11 @@
 * A curated linux kernal security related academic papers. All papers are sorted based on the conference name and published year. Welcome developers or researchers to add more published paper to this list.
 ---
 ### sp
-* [sp23]μSWITCH: Fast Kernel Context Isolation with Implicit Context Switches
+* [sp23]μSWITCH: Fast Kernel Context Isolation with Implicit Context Switches.
+* [sp23]SyzDescribe: Principled, Automated, Static Generation of Syscall Descriptions for Kernel Drivers
+* [sp23]Precise Detection of Kernel Data Races with Probabilistic Lockset Analysis.
+* [sp23]AEM: Facilitating Cross-Version Exploitability Assessment of Linux Kernel Vulnerabilities.
+* [sp23]DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing
 * [sp23]When Top-down Meets Bottom-up_Detecting and Exploiting Use-After-Cleanup Bugs in Linux Kernel.
 * [sp22]GREBE: Unveiling exploitation potential for Linux kernel bugs.
 * [sp22]Goshawk: Hunting Memory Corruptions via Structure-Aware and Object-Centric Memory Operation Synopsis
