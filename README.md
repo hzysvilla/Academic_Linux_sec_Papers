@@ -47,6 +47,10 @@
 
 ### ccs
 ---
+* [ccs22]NeVerMore: Exploiting RDMA Mistakes in NVMe-oF Storage Applications.
+* [ccs22]HammerScope: Observing DRAM Power Consumption Using Rowhammer.
+* [ccs22]DirtyCred: Escalating Privilege in Linux Kernel.
+* [ccs22]C2C: Fine-grained Configuration-driven System Call Filtering.
 * [ccs22]DirtyCred: Escalating Privilege in Linux Kernel.
 * [ccs20]Slake: Facilitating slab manipulation for exploiting vulnerabilities in the linux kernel.
 * [ccs20]A systematic study of elastic objects in kernel exploitation.
