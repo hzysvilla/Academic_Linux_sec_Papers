@@ -73,7 +73,8 @@
 
 ### osdi
 ---
-* [osdi] Specification and verification in the field: Applying formal methods to {BPF} just-in-time compilers in the Linux kernel.
+* [osdi22] KSplit: Automating Device Driver Isolation.
+* [osdi20] Specification and verification in the field: Applying formal methods to {BPF} just-in-time compilers in the Linux kernel.
 
 ### SOSP2021
 ---
