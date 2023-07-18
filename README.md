@@ -74,10 +74,11 @@
 
 ### osdi
 ---
+* [osdi23] Security and Performance in the Delegated User-level Virtualization
 * [osdi22] KSplit: Automating Device Driver Isolation.
 * [osdi20] Specification and verification in the field: Applying formal methods to {BPF} just-in-time compilers in the Linux kernel.
 
-### SOSP2021
+### sosp
 ---
 * [sosp2021] Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis.
 
