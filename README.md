@@ -63,6 +63,7 @@
 
 ### ndss
 ---
+* [ndss23] No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Descriptions.
 * [ndss22] KASPER: Scanning for Generalized Transient Execution Gadgets in the Linux Kernel.
 * [ndss22] An In-depth Analysis of Duplicated Linux Kernel Bug Reports.
 * [ndss22] Progressive Scrutiny: Incremental Detection of UBI bugs in the Linux Kernel.
