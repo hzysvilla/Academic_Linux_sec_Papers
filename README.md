@@ -121,7 +121,8 @@
 
 ### ISSTA
 ---
-* [ISSTA] PrIntFuzz: Fuzzing Linux Drivers via Automated Virtual Device Simulation.
+* [issta23] Detecting Vulnerabilities in Linux-Based Embedded Firmware with SSE-Based On-Demand Alias Analysis.
+* [issta22] PrIntFuzz: Fuzzing Linux Drivers via Automated Virtual Device Simulation.
 
 ### TIFS
 ---
