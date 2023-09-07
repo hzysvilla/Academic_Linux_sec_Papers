@@ -23,8 +23,12 @@
 ---
 * [sec23] FirmSolo: Enabling dynamic analysis of binary Linux-based IoT kernel modules.
 * [sec23] Device Tracking via Linux’s New TCP Source Port Selection Algorithm.
+* [sec23] BoKASAN: Binary-only Kernel Address Sanitizer for Effective Kernel Fuzzing.
+* [sec23] KextFuzz: Fuzzing macOS Kernel EXTensions on Apple Silicon via Exploiting Mitigations.
+* [sec23] DDRace: Finding Concurrency UAF Vulnerabilities in Linux Drivers with Directed Fuzzing.
 * [sec23] Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique.
 * [sec22] Midas: Systematic Kernel TOCTTOU Protection.
+* [sec22] LinKRID: Vetting Imbalance Reference Counting in Linux kernel with Symbolic Execution.
 * [sec22] Playing for K(H)eaps: Understanding and Improving Linux Kernel Exploit Reliability.
 * [sec22] OS-Aware Vulnerability Prioritization via Differential Severity Analysis.
 * [sec22] SyzScope Revealing High-Risk Security Impacts of Fuzzer-Exposed Bugs in Linux kernel.
