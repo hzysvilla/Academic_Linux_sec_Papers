@@ -100,6 +100,7 @@
 
 ### eurosys
 ---
+* [eurosys]SkyBridge: Fast and Secure Inter-Process Communication for Microkernels.
 * [eurosys19] LockDoc: Trace-based analysis of locking in the Linux kernel.
 
 ### ASPLOS
