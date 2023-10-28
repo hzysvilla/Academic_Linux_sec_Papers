@@ -90,6 +90,8 @@
 
 ### sosp
 ---
+* [sosp23] One Simple API Can Cause Hundreds of Bugs An Analysis of Refcounting Bugs in All Modern Linux Kernels.
+* [sosp23] Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor.
 * [sosp2021] Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis.
 
 ### usenix-atc
