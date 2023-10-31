@@ -52,6 +52,9 @@
 
 ### ccs
 ---
+* [ccs23] SyzDirect: Directed Greybox Fuzzing for Linux Kernel.
+* [ccs23] RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections.
+* [ccs23] KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis.
 * [ccs22] NeVerMore: Exploiting RDMA Mistakes in NVMe-oF Storage Applications.
 * [ccs22] HammerScope: Observing DRAM Power Consumption Using Rowhammer.
 * [ccs22] DirtyCred: Escalating Privilege in Linux Kernel.
