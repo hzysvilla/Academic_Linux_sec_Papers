@@ -99,6 +99,9 @@
 
 ### usenix-atc
 ---
+* [atc22] KSG: Augmenting Kernel Fuzzing with System Call Specification Generation.
+* [atc22] DLOS: Effective Static Detection of Deadlocks in OS Kernels..
+* [atc22] Modulo: Finding Convergence Failure Bugs in Distributed Systems with Divergence Resync Models.
 * [atc20] SPINFER: Inferring Semantic Patches for the Linux Kernel.
 * [atc19] LXDs: Towards Isolation of Kernel Subsystems.
 * [atc19] Effective static analysis of concurrency {Use-After-Free} bugs in linux device drivers
