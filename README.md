@@ -110,7 +110,11 @@
 
 ### eurosys
 ---
-* [eurosys19]SkyBridge: Fast and Secure Inter-Process Communication for Microkernels.
+* [eurosys23] OFence: Pairing Barriers to Find Concurrency Bugs in the Linux Kernel.
+* [eurosys23] Diagnosing Kernel Concurrency Failures with AITIA.
+* [eurosys23] Unikernel Linux (UKL).
+* [eurosys22] KASLR in the age of MicroVMs.
+* [eurosys19] SkyBridge: Fast and Secure Inter-Process Communication for Microkernels.
 * [eurosys19] LockDoc: Trace-based analysis of locking in the Linux kernel.
 
 ### ASPLOS
