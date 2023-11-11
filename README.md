@@ -28,6 +28,7 @@
 * [sec23] DDRace: Finding Concurrency UAF Vulnerabilities in Linux Drivers with Directed Fuzzing.
 * [sec23] Pspray: Timing Side-Channel based Linux Kernel Heap Exploitation Technique.
 * [sec22] Midas: Systematic Kernel TOCTTOU Protection.
+* [sec22] Using Tratr to tame Adversarial Synchronization.
 * [sec22] LinKRID: Vetting Imbalance Reference Counting in Linux kernel with Symbolic Execution.
 * [sec22] Playing for K(H)eaps: Understanding and Improving Linux Kernel Exploit Reliability.
 * [sec22] OS-Aware Vulnerability Prioritization via Differential Severity Analysis.
