@@ -106,6 +106,7 @@
 * [atc22] DLOS: Effective Static Detection of Deadlocks in OS Kernels..
 * [atc22] Modulo: Finding Convergence Failure Bugs in Distributed Systems with Divergence Resync Models.
 * [atc21] MLEE: Effective Detection of Memory Leaks on Early-Exit Paths in OS Kernels.
+* [atc20] Harmonizing Performance and Isolation in Microkernels with Efficient Intra-kernel Isolation and Communication.
 * [atc20] SPINFER: Inferring Semantic Patches for the Linux Kernel.
 * [atc19] LXDs: Towards Isolation of Kernel Subsystems.
 * [atc19] Effective static analysis of concurrency {Use-After-Free} bugs in linux device drivers
