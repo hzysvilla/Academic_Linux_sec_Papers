@@ -3,6 +3,7 @@
 * A curated linux kernal security related academic papers. All papers are sorted based on the conference name and published year. Welcome developers or researchers to add more published paper to this list.
 ---
 ### sp
+* [sp24] AEM: Facilitating Cross-Version Exploitability Assessment of Linux Kernel Vulnerabilities
 * [sp23] μSWITCH: Fast Kernel Context Isolation with Implicit Context Switches.
 * [sp23] SyzDescribe: Principled, Automated, Static Generation of Syscall Descriptions for Kernel Drivers
 * [sp23] Precise Detection of Kernel Data Races with Probabilistic Lockset Analysis.
