@@ -10,6 +10,7 @@
 * [sp23] Precise Detection of Kernel Data Races with Probabilistic Lockset Analysis.
 * [sp23] AEM: Facilitating Cross-Version Exploitability Assessment of Linux Kernel Vulnerabilities.
 * [sp23] DEVFUZZ: Automatic Device Model-Guided Device Driver Fuzzing
+* [sp23] Saturn: Host-Gadget Synergistic USB Driver Fuzzing
 * [sp23] When Top-down Meets Bottom-up_Detecting and Exploiting Use-After-Cleanup Bugs in Linux Kernel.
 * [sp22] GREBE: Unveiling exploitation potential for Linux kernel bugs.
 * [sp22] Goshawk: Hunting Memory Corruptions via Structure-Aware and Object-Centric Memory Operation Synopsis
@@ -98,7 +99,8 @@
 ---
 * [sosp23] One Simple API Can Cause Hundreds of Bugs An Analysis of Refcounting Bugs in All Modern Linux Kernels.
 * [sosp23] Snowcat: Efficient Kernel Concurrency Testing using a Learned Coverage Predictor.
-* [sosp2021] Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis.
+* [sosp21] Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis.
+* [sosp21] HEALER: Relation Learning Guided Kernel Fuzzing.
 
 ### usenix-atc
 ---
