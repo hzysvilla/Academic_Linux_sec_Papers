@@ -56,6 +56,10 @@
 
 ### ccs
 ---
+* [ccs23] Hacksaw: Hardware-Centric Kernel Debloating via Device Inventory and Dependency Analysis
+* [ccs23] KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis
+* [ccs23] RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections
+* [ccs23] SysPart: Automated Temporal System Call Filtering for Binaries
 * [ccs23] SyzDirect: Directed Greybox Fuzzing for Linux Kernel.
 * [ccs23] RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections.
 * [ccs23] KRover: A Symbolic Execution Engine for Dynamic Kernel Analysis.
