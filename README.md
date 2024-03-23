@@ -74,6 +74,8 @@
 
 ### ndss
 ---
+* [ndss24] K-LEAK: Towards Automating the Generation of Multi-Step Infoleak Exploits against the Linux Kernel.
+* [ndss24] GNNIC: Finding Long-Lost Sibling Functions with Abstract Similarity.
 * [ndss23] No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Descriptions.
 * [ndss22] KASPER: Scanning for Generalized Transient Execution Gadgets in the Linux Kernel.
 * [ndss22] An In-depth Analysis of Duplicated Linux Kernel Bug Reports.
