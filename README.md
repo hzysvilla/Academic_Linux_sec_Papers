@@ -78,6 +78,7 @@
 
 ### ndss
 ---
+* [ndss24] LDR: Secure and Efficient Linux Driver Runtime for Embedded TEE Systems.
 * [ndss24] K-LEAK: Towards Automating the Generation of Multi-Step Infoleak Exploits against the Linux Kernel.
 * [ndss24] GNNIC: Finding Long-Lost Sibling Functions with Abstract Similarity.
 * [ndss23] No Grammar, No Problem: Towards Fuzzing the Linux Kernel without System-Call Descriptions.
